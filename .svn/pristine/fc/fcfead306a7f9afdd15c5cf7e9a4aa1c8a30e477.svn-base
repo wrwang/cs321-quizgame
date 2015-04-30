@@ -1,0 +1,35 @@
+package edu.gmu.teemw;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
+import javax.swing.JFrame;
+
+import edu.gmu.teemw.database.User;
+import edu.gmu.teemw.database.quiz.Quiz;
+import edu.gmu.teemw.ui.LoginFrame;
+import edu.gmu.teemw.ui.Menu;
+
+public class SystemMain {
+	public static User currentUser;
+	public static Quiz currentQuiz;
+
+	public static void main(String[] args) {
+		JFrame login = new LoginFrame();
+		login.setVisible(true);
+		
+		login.addWindowListener(new WindowListener() {
+			@Override public void windowOpened(WindowEvent e) {}
+			@Override public void windowClosing(WindowEvent e) {}
+			@Override
+			public void windowClosed(WindowEvent e) {
+				if (SystemMain.currentUser != null) {
+					JFrame menu = new Menu();
+					menu.setVisible(true);
+				}
+			}
+			@Override public void windowIconified(WindowEvent e) {}
+			@Override public void windowDeiconified(WindowEvent e) {}
+			@Override public void windowActivated(WindowEvent e) {}
+			@Override public void windowDeactivated(WindowEvent e) {}
+		});
+	}
+}

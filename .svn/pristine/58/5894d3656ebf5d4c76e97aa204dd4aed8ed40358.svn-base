@@ -1,0 +1,17 @@
+package edu.gmu.teemw.junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import edu.gmu.teemw.database.quiz.Question;
+import edu.gmu.teemw.database.quiz.QuestionCode;
+
+public class ExampleTest {
+
+	@Test
+	public void Test1() {
+		Question question = new QuestionCode(0,"Question","Input","Answer");
+		assertEquals(question instanceof Question, true);
+	}
+}

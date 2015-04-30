@@ -1,0 +1,38 @@
+[2015-04-07 14:41:59.169] Dr. Kinga (drk) has logged in
+[2015-04-07 14:42:21.191] Dr. Kinga (drk) has modified grade for user:3 on quiz:2 to 5
+[2015-04-07 14:42:32.692] Dr. Kinga (drk) took quiz:1and got score:2
+[2015-04-07 14:42:36.522] Dr. Kinga (drk) is logging out.
+[2015-04-09 14:47:25.267] Jane Doe (jdoe) has logged in
+[2015-04-09 14:48:33.311] Jane Doe (jdoe) has logged in
+[2015-04-09 14:48:51.048] Jane Doe (jdoe) took quiz:1 and got score:2
+[2015-04-09 14:49:09.547] Jane Doe (jdoe) took quiz:1 and got score:1
+[2015-04-09 14:49:15.438] Jane Doe (jdoe) is logging out.
+[2015-04-09 14:50:48.900] Dr. Kinga (drk) has logged in
+[2015-04-09 14:50:55.493] Dr. Kinga (drk) has modified grade for user:Jane Doe on quiz:SE history to 2
+[2015-04-09 14:50:58.722] Dr. Kinga (drk) is logging out.
+[2015-04-27 18:06:35.368] Dr. Kinga (drk) has logged in
+[2015-04-27 18:06:44.435] Dr. Kinga (drk) took quiz:"SE history"[1] and got score:0
+[2015-04-28 12:18:10.929] Dr. Kinga (drk) has logged in
+[2015-04-28 12:18:52.368] Dr. Kinga (drk) has logged in
+[2015-04-28 12:19:54.401] Dr. Kinga (drk) has logged in
+[2015-04-28 12:22:29.578] Dr. Kinga (drk) has logged in
+[2015-04-28 12:23:39.608] Dr. Kinga (drk) has logged in
+[2015-04-28 12:23:53.079] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:25:49.920] Dr. Kinga (drk) has logged in
+[2015-04-28 12:25:53.620] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:27:25.712] Dr. Kinga (drk) has logged in
+[2015-04-28 12:27:27.877] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:28:08.956] Dr. Kinga (drk) has logged in
+[2015-04-28 12:28:09.779] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:29:47.161] Dr. Kinga (drk) has logged in
+[2015-04-28 12:29:47.936] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:30:51.228] Dr. Kinga (drk) has logged in
+[2015-04-28 12:30:52.050] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:31:43.354] Dr. Kinga (drk) has logged in
+[2015-04-28 12:31:54.194] Dr. Kinga (drk) has logged in
+[2015-04-28 12:31:56.557] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:34:26.993] Dr. Kinga (drk) has logged in
+[2015-04-28 12:34:50.163] Dr. Kinga (drk) has logged in
+[2015-04-28 12:34:53.362] Dr. Kinga (drk) is logging out.
+[2015-04-28 12:35:46.558] Dr. Kinga (drk) has logged in
+[2015-04-28 12:36:00.145] Dr. Kinga (drk) is logging out.
